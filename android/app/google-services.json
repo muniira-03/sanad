@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716155270145",
+    "project_id": "sanad-1832t",
+    "storage_bucket": "sanad-1832t.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716155270145:android:97680234ace334dacb7c00",
+        "android_client_info": {
+          "package_name": "com.example.sanad_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZWECRzuL3_8kKB9gVL-RAESVLroXbT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
